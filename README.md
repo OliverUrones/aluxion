@@ -26,6 +26,7 @@ Then execute next:
 docker exec -it docker_container_id python manage.py createsuperuser
 
 # E/R Diagram
+![aluxion](https://user-images.githubusercontent.com/14348520/203121410-74df6679-c2a9-4a08-9684-e5ac63bcab41.png)
 
 
 # TESTING SERVICES
